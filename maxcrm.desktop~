@@ -2,11 +2,11 @@
 Name=MaxCrm
 Comment=
 GenericName=
-Keywords=
-Exec=
+Keywords=max
+Exec=/BuildMaxCrm/maxcrm
 Terminal=false
 Type=Application
 Icon=index.png
-Path=
-Categories=
+Path=/BuildMaxCrm
+Categories=crm
 NoDisplay=false
